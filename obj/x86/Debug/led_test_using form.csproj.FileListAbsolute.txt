@@ -1,0 +1,60 @@
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\led_test_using form.exe.config
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\led_test_using form.exe
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\led_test_using form.pdb
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Control.CrystalButton.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Control.DataGridViewBaseEx.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Control.GammaAdjust.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Database.CoefsAccessor.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Diagnostics.ExceptionHandle.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Equipment.Protocol.TGProtocol.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.IO.Port.ICommProcessorBase.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.CommonInfoAccessor.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.DataClass.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.DataGridView.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.HardwareCaculator.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.HardwareFiles.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.HWPointDetect.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.HWStatusMonitor.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.LEDConfigAccessor.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.ProtocolEnum.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.ReadSBParameters.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.ScanBoardCapability.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.SupperDisplayConstruct.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.GigabitSystem.SystemLogCtrl.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.LCTServerBaseProxy.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.LCT.LCTServerMessageProxy.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Mars.SDK.MarsInterface.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Message.Common.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Net.Mail.MailSender.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Xml.Serialization.XmlSerializableObject.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Zip.NSSevenZip.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\log4net.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Runtime.APIFunction.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Process.ShareMemory.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Mars.SDK.MarsInterface.pdb
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\Nova.Mars.SDK.MarsInterface.xml
+C:\Users\thli\source\repos\led_test_using form\obj\x86\Debug\led_test_using form.csproj.AssemblyReference.cache
+C:\Users\thli\source\repos\led_test_using form\obj\x86\Debug\led_test_using form.csproj.SuggestedBindingRedirects.cache
+C:\Users\thli\source\repos\led_test_using form\obj\x86\Debug\led_test_using_form.Form1.resources
+C:\Users\thli\source\repos\led_test_using form\obj\x86\Debug\led_test_using_form.Properties.Resources.resources
+C:\Users\thli\source\repos\led_test_using form\obj\x86\Debug\led_test_using form.csproj.GenerateResource.cache
+C:\Users\thli\source\repos\led_test_using form\obj\x86\Debug\led_test_using form.csproj.CoreCompileInputs.cache
+C:\Users\thli\source\repos\led_test_using form\obj\x86\Debug\led_test_using form.csproj.CopyComplete
+C:\Users\thli\source\repos\led_test_using form\obj\x86\Debug\led_test_using form.exe
+C:\Users\thli\source\repos\led_test_using form\obj\x86\Debug\led_test_using form.pdb
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\MySqlConnector.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\System.Buffers.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\System.Memory.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\MySqlConnector.xml
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\System.Buffers.xml
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\System.Memory.xml
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thli\source\repos\led_test_using form\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
